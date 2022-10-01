@@ -10,9 +10,15 @@ So it's clear that you need something more to protect your Data and Privacy, and
 ## Approach
 I have implemented a three-factor authentication system, which provides an additional layer security to the old 2FA, with the help of Facial Recognition.
 
-- Factor-1:(Something You Have) Basic Email + Password Authentication.
-- Factor-2:(Something You Know) Use Microsoft authenticator to scan QR-Code, generate a TOTP.
-- Factor-3:(Something You Are) Facial Biometrics of the user were used to validate his presence.
+- Factor-1: (Something You Have) Basic Email + Password Authentication.
+- Factor-2: (Something You Know) Use Microsoft authenticator to scan QR-Code for password.
+- Factor-3: (Something You Are) Facial Biometrics of the user were used to validate his presence. <br>
+
+![3-factor](https://user-images.githubusercontent.com/83868776/193419136-a172b038-6432-4761-8d97-7eef60679270.jpg)
+
+
+
+
 
 ## Introduction
 
