@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login-2</title>
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename = 'css/style.css')}}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  </head>
+  <body class="bg-nav">
+
+  <nav class = "navbar">
+    <a href="" class = "navbar-brand text-light">Second Factor Authentication</a>
+  </nav>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <h1 class = "text-light display-4 mt-100" style="font-size:64px">Education is not just about going to
+          school and getting a degree. It's about widening your knowledge and absorbing the truth about life.</h1>
+
+      </div>
+      <div class="col-md-4">
+        <div class="card mt-100" >
+          <div class = "card-body">
+            <form class = "form" method = "post" action="/second">
+            <p class="text-secondary" style="font-family:emoji; font-size:22px"><strong>SQAN QR Code for Password</strong></p>
+             <img class="img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIoAAACKCAYAAAB1h9JkAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAwBJREFUeJzt3UGO4zgQRUG5Mfe/smff8LieQA5JFSK2rbIF4YPITqfI1/v9fl/wgz+7b4BnEBQSQSERFBJBIREUkn++/ePr9Vp1Hz+q/4v/dM9P/Ntd/uuerSgkgkIiKCSCQvK1mP1kxU9DI8Xdp/vbVSyOFLinPWcrComgkAgKiaCQ3C5mP5ldfO763vp59brZBemu53xdVhQiQSERFBJBIZlSzO4yuyAdKfh++8sMVhQSQSERFBJBIXl0MftJLXBXdE1/U4FrRSERFBJBIREUkinF7ElF2+yicuSn/d/U/bWikAgKiaCQCArJ7WL2pDfva7F40nXVSc/5uqwoRIJCIigkgkLytZg9qeNazS4CV4wPPOE5W1FIBIVEUEgEheT17RiWJ26RNfK9J+0pO3s0wm4GLCEoJIJCIigk2/eZfUJX8m+zi95P180eeRi5v+uyohAJComgkAgKyZQxgxUvXa3ouI7cS/3eXSeFjXbFrSgkgkIiKCSCQjJlzOD042JXfN5sp92fFYVEUEgEhURQSJbuMzu7u3pS13TEriLfmAHTCQqJoJAICsmRYwa7Csh63a6xgF375V6XFYVIUEgEhURQSL4Ws6d3DFcUvSMd3BUviq1iRSERFBJBIREUktud2RUvXa0o5EZ2FRgxezRixJ3Ps6KQCAqJoJAICsmjO7O75m1HRhRGrqtql9jMLNMJComgkAgKyf92AtiubuPpTtqBQWeW6QSFRFBIBIXkdmd2l10/sa+YZz29i31dVhQiQSERFBJBIdl+Atgns4/Rrd8x8hLXSfPF9bo7z9mKQiIoJIJCIigkU/aZXVF8VrvmaKuTut13WFFIBIVEUEgEhWTpoQmzrdh3ddfuAyvGFszMMp2gkAgKiaCQPLqYXdFJHengrujCOgGMowgKiaCQCArJlGL2pB0JRrqSI/vMzh61mD1vO1r4W1FIBIVEUEgEheR2MXv6zOeuwrCa3enVmeUogkIiKCSCQvJ6n9RW5VhWFBJBIREUEkEhERSSfwGonqkUE0yYYwAAAABJRU5ErkJggg==" alt="QRcode" style="width:315px;height:290px;"><br>
+              <input type="password" class="form-control"  placeholder="Enter Password"  name="password"><br>
+              <input type = "submit" class="w-100 btn btn-lg btn-primary" value="2-Factor Login">
+              <br>
+            </form>
+          </div>
+      </div>
+  </div>
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js" integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous"></script>
+
+
+  </body>
+</html>
