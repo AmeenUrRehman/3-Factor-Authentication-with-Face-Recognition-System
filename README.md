@@ -1,5 +1,5 @@
 
-# Three Factor Authentication 
+# Three Factor Authentication with Face Recognition System
 Made a project which add a layer of security to the old 2FA, using Facial Recognition, and mark the time of the users when they log in.
 
 ## Introduction:man_office_worker:	
