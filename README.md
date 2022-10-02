@@ -26,7 +26,7 @@ I have implemented a three-factor authentication system, which provides an addit
 - HTML, CSS and Bootstrap for UI
 - Operating System
 
-### Features :rocket:
+### Key features :rocket:
 - Recognize the face of the user.
 - Mark the time when user face is recognized in the 3-Factor Login.
 
