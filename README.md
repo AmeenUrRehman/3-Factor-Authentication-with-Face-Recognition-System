@@ -42,12 +42,12 @@ I have implemented a three-factor authentication system, which provides an addit
  
 ![3rd login with face recogntion](https://user-images.githubusercontent.com/83868776/193453665-53652b6a-5ef2-4f22-92ec-701b8f989532.png)
 
-<b> Login time of the user.<br><b>
+<b> Login time of the user.<br></b>
 
 ![user_login_time](https://user-images.githubusercontent.com/83868776/193452819-bac17d43-a494-4edd-9730-ff4620c2b417.png)
 
 
-- <b> You are logged into the Personal Page of the website with security :partying_face: <b>. 
+- <b> You are logged into the Personal Page of the website with security :partying_face: </b>. 
 
 ![home_page](https://user-images.githubusercontent.com/83868776/193452612-0c2b4857-0474-4fe6-aa4c-9ef28db1bc0c.png)
 
