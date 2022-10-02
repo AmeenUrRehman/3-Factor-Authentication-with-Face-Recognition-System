@@ -18,7 +18,7 @@ I have implemented a three-factor authentication system, which provides an addit
 
 ## Introduction
 
-### Technologies and Packages used in this project,
+### Technologies :flying_saucer: and Packages used in this project,
 - Python
 - Face Recognition and OpenCV
 - Numpy
@@ -26,11 +26,11 @@ I have implemented a three-factor authentication system, which provides an addit
 - HTML, CSS and Bootstrap for UI
 - Operating System
 
-### Features
+### Features :rocket:
 - Recognize the face of the user.
 - Mark the time when user face is recognized in the 3-Factor Login.
 
-### Functioning
+### Functioning :man_student:
 - <b>Factor-1: (Something You Have) Users log in with their email and password :hugs:.</b>  
 
 ![Login_page](https://user-images.githubusercontent.com/83868776/193450228-0a665af1-bc61-40a6-bf7b-466bfb14fccd.png)
