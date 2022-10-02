@@ -31,23 +31,23 @@ I have implemented a three-factor authentication system, which provides an addit
 - Mark the time when user face is recognized in the 3-Factor Login.
 
 ### Functioning :man_student:
-- <b>Factor-1: (Something You Have) Users log in with their email and password :hugs:.</b>  
+- <b>Factor-1: </b> (Something You Have) Users log in with their email and password :hugs:.
 
 ![Login_page](https://user-images.githubusercontent.com/83868776/193450228-0a665af1-bc61-40a6-bf7b-466bfb14fccd.png)
 
-- <b>Factor-2: (Something You Know) Users can use the scanner to Scan QR codes for passwords to login into 2nd Factor. :innocent:. </b>
+- <b>Factor-2: </b> (Something You Know) Users can use the scanner to Scan QR codes for passwords to login into 2nd Factor. :innocent:. 
 
 ![2nd Login](https://user-images.githubusercontent.com/83868776/193451034-3ef70de0-1b11-4740-8581-57a4375f64b6.png)
- - <b>Factor-3: (Something You Are) Webcam identifies the Users face in real time and mark the time at which the webcam recognized the user. It reveals the ID of the user which the user can use to login into the 3rd Factor :sunglasses: of the Three Factor Authentication. </b>
+ - <b>Factor-3: </b> (Something You Are) Webcam identifies the Users face in real time and mark the time at which the webcam recognized the user. It reveals the ID of the user which the user can use to login into the 3rd Factor :sunglasses: of the Three Factor Authentication.
  
 ![3rd login with face recogntion](https://user-images.githubusercontent.com/83868776/193453665-53652b6a-5ef2-4f22-92ec-701b8f989532.png)
 
-<b> Login time of the user.<br></b>
+- Username and Login_time saved into the csv file.
 
 ![user_login_time](https://user-images.githubusercontent.com/83868776/193452819-bac17d43-a494-4edd-9730-ff4620c2b417.png)
 
 
-- <b> You are logged into the Personal Page of the website with security :partying_face: </b>. 
+- You are logged into the Personal Page of the website with security :partying_face:. 
 
 ![home_page](https://user-images.githubusercontent.com/83868776/193452612-0c2b4857-0474-4fe6-aa4c-9ef28db1bc0c.png)
 
