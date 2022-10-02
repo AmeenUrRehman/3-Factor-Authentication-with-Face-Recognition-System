@@ -2,7 +2,7 @@
 # Three Factor Authentication 
 Made a project which add a layer of security to the old 2FA, using Facial Recognition, and mark the time of the users when they log in.
 
-## Abstract :man_office_worker:	
+## Introduction:man_office_worker:	
 Presently the risk of Cyber Attacks has increased a lot. Do you know how frequently malicious hackers attack our data and privacy? Every 39 seconds! According to reliable estimates, Cybercrimes are expected to cost the world around 6 trillion dollars annually by 2022. Shocking, right? During last year, over 10 billion data breaches were recorded worldwide, And 79% of companies have experienced at least one in the past 18 months.
 
 So it's clear that we need something more to protect our Data and Privacy, and my Project could provide an additional layer of security to all those systems which are more venerable to cyber thefts. I implemented a Face Recognition of the users with a Unique ID for securely authenticating a session.
@@ -16,7 +16,6 @@ I have implemented a three-factor authentication system, which provides an addit
 
 ![3-factor](https://user-images.githubusercontent.com/83868776/193419136-a172b038-6432-4761-8d97-7eef60679270.jpg)
 
-## Introduction
 
 ### Technologies :flying_saucer: and Packages used in this project,
 - Python
