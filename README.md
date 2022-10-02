@@ -2,12 +2,12 @@
 # Three Factor Authentication 
 Made a project which add a layer of security to the old 2FA, using Facial Recognition, and mark the time of the users when they log in.
 
-## Abstract
+## Abstract :man_office_worker:	
 Presently the risk of Cyber Attacks has increased a lot. Do you know how frequently malicious hackers attack our data and privacy? Every 39 seconds! According to reliable estimates, Cybercrimes are expected to cost the world around 6 trillion dollars annually by 2022. Shocking, right? During last year, over 10 billion data breaches were recorded worldwide, And 79% of companies have experienced at least one in the past 18 months.
 
 So it's clear that we need something more to protect our Data and Privacy, and my Project could provide an additional layer of security to all those systems which are more venerable to cyber thefts. I implemented a Face Recognition of the users with a Unique ID for securely authenticating a session.
 
-## Approach
+## Approach :running_man:
 I have implemented a three-factor authentication system, which provides an additional layer security to the old 2FA, with the help of Facial Recognition.
 
 - Factor-1: (Something You Have) Basic Email + Password Authentication.
