@@ -37,7 +37,7 @@ I have implemented a three-factor authentication system, which provides an addit
 - <b>Factor-2: </b> (Something You Know) Users can use the scanner to Scan QR codes for passwords to login into 2nd Factor. :innocent:. 
 
 ![2nd Login](https://user-images.githubusercontent.com/83868776/193451034-3ef70de0-1b11-4740-8581-57a4375f64b6.png)
- - <b>Factor-3: </b> (Something You Are) Webcam identifies the Users face in real time and mark the time at which the webcam recognized the user on the website. It reveals the ID of the user which the user can use to login into the 3rd Factor :sunglasses: of the Three Factor Authentication.
+ - <b>Factor-3: </b> (Something You Are) Website identifies the Users face in real time and mark the time at which the machine recognized the user on the website. It reveals the ID of the user which the user can use to login into the 3rd Factor :sunglasses: of the Three Factor Authentication.
  
 ![3rd login with face recogntion](https://user-images.githubusercontent.com/83868776/193453665-53652b6a-5ef2-4f22-92ec-701b8f989532.png)
 
